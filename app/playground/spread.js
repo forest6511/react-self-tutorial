@@ -1,4 +1,4 @@
-// $ node ./playground/spread.js
+// $ node ./app/playground/spread.js
 
 function add(a, b) {
     return a + b;
